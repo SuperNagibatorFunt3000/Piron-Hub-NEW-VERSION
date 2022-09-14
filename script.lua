@@ -13,3 +13,11 @@ end
 if game.PlaceId == 155615604 then
   loadstring(game:HttpGet("https://raw.githubusercontent.com/SuperNagibatorFunt3000/Piron-Hub-NEW-VERSION/main/Prison%20Life%20script.lua"))()
 end
+
+if game.PlaceId == 662417684 then
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/SuperNagibatorFunt3000/Piron-Hub-NEW-VERSION/main/Lucky%20Blocks%20script.lua"))()
+end
+
+if game.PlaceId == 2809202155 then
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/SuperNagibatorFunt3000/Piron-Hub-NEW-VERSION/main/YBA.lua"))()
+end
