@@ -21,3 +21,6 @@ end
 if game.PlaceId == 2809202155 then
   loadstring(game:HttpGet("https://raw.githubusercontent.com/SuperNagibatorFunt3000/Piron-Hub-NEW-VERSION/main/YBA.lua"))()
 end
+
+--Rainbow friends
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SuperNagibatorFunt3000/Piron-Hub-NEW-VERSION/main/Rainbow%20Friends.lua"))()
